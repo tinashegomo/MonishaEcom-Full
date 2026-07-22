@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/monishaEcom/:path*", "destination": "https://monishaecombackend.onrender.com/api/monishaEcom/:path*" }
+  ]
+}
